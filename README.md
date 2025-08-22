@@ -1,2 +1,2 @@
-# ATT-IKEA-CLENT
-a free beta client for A township tale
+# Att-Ikea-Free.
+Project of all the members of Att-Ikea, And Liksva.
